@@ -51,7 +51,7 @@ char& Bigram::at(int index){
 }
 
 bool isValidCharacter(char character, const std::string& validCharacters){
-    return true;
+    return false;
 }
 
 void toUpper(Bigram &bigram){
